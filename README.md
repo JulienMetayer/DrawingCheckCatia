@@ -1,2 +1,0 @@
-# DrawingCheckCatia
-# ExportPlans
